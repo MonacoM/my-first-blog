@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'zg2opxglwvrn!!*2r*$7($6zw&j*m(pq2#c%8k&m=4nzk4f5i2'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'aidos.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'monacom.pythonanywhere.com']
 
 
 # Application definition
